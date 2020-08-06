@@ -1,3 +1,4 @@
 hej
 nextLine
+NextlineAgain
 nextLineConfilict
